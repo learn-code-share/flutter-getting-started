@@ -2,6 +2,7 @@
 
 Watch Getting started [video](https://www.youtube.com/watch?v=pTJJsmejUOQ)
 
+Watch Pragmatic State management [technique](https://www.youtube.com/watch?v=d_m5csmrf7I)
 
 This project is a starting point for a Flutter application.
 
