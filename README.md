@@ -1,5 +1,7 @@
 # flutter-getting-started
 
+Have a look on dart programming basics before moving to flutter app development. [here](dart-basics.md)
+
 Watch Getting started [video](https://www.youtube.com/watch?v=pTJJsmejUOQ)
 
 Watch Pragmatic State management [technique](https://www.youtube.com/watch?v=d_m5csmrf7I)
@@ -37,4 +39,4 @@ lib
 |--|--shared-widgets2.dart
 ```
 
-
+dart-programming-
